@@ -1,0 +1,5 @@
+PPRP
+
+Pakon Planar Raw Processor
+
+Uses imagemagick to convert raw planar RGB files from a Pakon film scanner to usable .tif images
